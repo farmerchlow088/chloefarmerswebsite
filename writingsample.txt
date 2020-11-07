@@ -1,0 +1,41 @@
+<body bgcolor="C3C3E5">
+<table width="70%"border="0" cellspacing="0">
+<tr>
+<td width="30%"</td>
+<td width="40%" bgcolor="8C489F">
+<div style="text-align:center"><h3>Writing Samples</h3></div>
+</td>
+<td><img src="lola.jpg" height="190"width="160" alt="Lola" border="2px"/>
+</td>
+</tr>
+<tr>
+<td width="30%"></td>
+<td colspan="2" style="padding:50px 0px 0px 5px">
+<h4>Discussion 1</h4>
+<p class="dropcap">Reading this chapter has allowed me to grasp the usability of written text more efficiently. Before the written word was created, people learned solely by apprenticeship. Literacy lacking cultures often have trouble forming "geometrical figures, abstract categorization, formally logical reasoning processes, definitions, or even comprehensive descriptions, or articulated self-analysis". Though oral dependant cultures are deficient in certain descriptive and problem-solving outlooks, they do not lack complexity and artistic ability. When the written word was being developed, some protested. Claiming that once oral word became written text, it could no longer defend itself. I find that quite interesting. 
+</p>
+<p> Even in today's world, humans are looking for better ways to protect their written words from theft. Another problem that protesters had with written text, is the fact that it can be taken out of context. If the person writing a text does not use proper punctuation, sentence structure, and syntax than the reader may misinterpret the intended meaning. In oral language, it is hard to be taken out of context. A person would have to misunderstand certain social cues and body language completely. Oral cultures believe that the written word can diminish certain parts of the brain. They fear that without the constant need for repetition, they may grow weary of remembrance. I believe literacy is extremely vital in the aspect of social development. Literacy is indispensable when it comes to the quick comprehension and expansion on a topic. Not only are people able to expand on the ideas of others, but they are able to share their ideas a crossed the nation. Making text essential for global communication. Without text and hypertext, there would be no platform for international transmission.
+</p>
+<br>
+<p>Best regards,</p>
+<br>
+<p>Chloe Farmer</p>
+<br>
+<h4>Discussion 2</h4>
+<p class="dropcap">I enjoyed this series of pages because the author explains how hypertext can bring words and ideas to life. Richard Lanham is a well-renowned author who believes that human brains respond to graphics and digital text the same way they might respond to "oral discourse" (7). I find that many people in the 21st century are dulled by a wordy article with no graphics. Applen states, British classicist Eric Havelock believed that putting words on paper created an analytic and thoughtless process for people (7). Lanham uses that belief of Havelocks to defend digital text.
+</p>
+<p>This section is interesting because it points out the main differences between typed words on paper and digital text. Words on paper give people the sense that they cannot change or manipulate the presented words and meanings. On digital devices with digital text, people can manipulate things any way they want. People are taught certain forms of situational manipulation from infancy as an instinctual survival method. Creating an innate need for the manipulation of written and spoken language.</p>
+<p>Another aspect of this section I enjoyed is the concept of "Variability". Current computer programs and digital text are not just based on any one thing (8). They are constantly changing and conforming to the user. Allowing the user to create their own narrative using technology. Written and spoken words permanent, for the most part. Once a person writes something on paper or verbally says something, they cannot take it back. They can't add or subtract from the thing they said. With digital text, words and images can be modified indefinitely.</p>
+<br>
+<p>Thank you for reading,<p>
+<br>
+<p>Chloe Farmer</p>
+<br></br>
+</td>
+</tr>
+<tr><td bgcolor="C3C3E5">&nbsp;</td></tr>
+<tr><td width="30%"></td>
+<td><a href="home.html"><p>Home</p></a></td></tr>
+</table>
+</body>
+</html>
