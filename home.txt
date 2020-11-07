@@ -2,7 +2,11 @@
 <title>Chloe Farmer's Website</title>
 <head>
 <link rel="stylesheet" type="text/css" href="crfarmer.css"/>
-<meta name="author" content="Chloe Farmer"/>
+<meta name="author" content="Chloe Farmer"/> 
+.indent {
+text-indent: 3em;
+}
+</style>
 </head>
 <body bgcolor="C3C3E5">
 <table width="70%" border="0" cellspacing="0" cellpadding="0">
